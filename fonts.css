@@ -1,0 +1,7 @@
+.new-collection, .bags, .autumn-collection {
+	font-family: 'Montserrat';
+}
+
+.new-collection__info, .bags__info, .bags__price, .autumn-collection__head, .autumn-collection__paragraph {
+	font-family: 'Montserrat', bold;
+}
